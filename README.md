@@ -21,7 +21,7 @@ Checkout the live demo [here](https://roxo-eleventy.staticmania.com/)
 3. Build and run project by `npx eleventy --serve` and see the result at `http://localhost:8080/`
 
 ## Features
-- Responsive Ready.
+- Color Code - orange - EB5E2C
 - Powered by Bootstrap 4.
 - Dedicated portfolio and blog page.
 - Well formatted code.

@@ -1,8 +1,7 @@
 ---
 layout: "layouts/contact.njk"
-title: "Don’t be shy. Say "
-subTitle: Hello.
+title: "Lets Make in India - Make it Happen "
+subTitle: Bharath.
 formTitle: "Tell us about your project"
 btnText: "Send Message"
 ---
-

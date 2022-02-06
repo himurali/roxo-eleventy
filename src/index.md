@@ -11,6 +11,9 @@ hero:
   connectBtn:
     text: "Connect with us"
     link: "contact"
+  connectBtn2:
+    text: "Volunteers"
+    link: "#volunteer"
 
 portfolio:
   subTitle: "DETAILS"

@@ -11,38 +11,15 @@
               <h1>
                 {{hero.title.firstPara}}
                 <br>
-                {{hero.title.secondPara}}
               </h1>
-              <ul class="site-hero-content-buttons">
-                <li>
-                  <a href="{{hero.seeWorkBtn.link}}" class="btn btn-secondary scroll-to">
-                    <span class="btn-area">
-                      <span data-text="{{hero.seeWorkBtn.text}}">
-                        {{hero.seeWorkBtn.text}}
-                      </span>
-                    </span>
-                  </a>
-                </li>
-                <li>
-                  <a href="/{{hero.connectBtn.link}}" class="btn btn-primary">
-                    <span class="btn-area">
-                      <span data-text="{{hero.connectBtn.text}}">
-                        {{hero.connectBtn.text}}
-                      </span>
-                    </span>
-                  </a>
-                </li>
 
-                <li>
-                  <a href="/{{hero.connectBtn2.link}}" class="btn btn-primary">
-                    <span class="btn-area">
-                      <span data-text="{{hero.connectBtn2.text}}">
-                        {{hero.connectBtn2.text}}
-                      </span>
-                    </span>
-                  </a>
-                </li>
-              </ul>
+              <h3>
+              {{hero.title.secondPara}}
+
+                <br>
+              </h3>
+
+
             </div>
           </div>
         </div>
@@ -57,14 +34,15 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title">
-              <h2 class="text-white">{{achieve.title}}</h2>
+              <h2 class="text-white">{{sponsor.sponsor_title}}</h2>
             </div>
           </div>
-          {% for achievement in achieve.achievements %}
+          {% for sponsor in sponsor.sponsor_opportunities %}
           <div class="col-lg-3 col-md-6">
             <div class="site-counter-item">
-              <span class="site-counter-item-title">{{achievement.title}}</span>
-              <h3 class="site-counter-item-number">{{achievement.counter}}+</h3>
+              <h4 >{{sponsor.title}}+</h4>
+              <span class="site-counter-sponsor-details">{{sponsor.details}}</span>
+
             </div>
           </div>
           {% endfor %}
@@ -127,14 +105,14 @@
           <div class="col-12">
             <div class="section-title">
               <h2>
-                {{testimonials.title}}
+                {{partners.title}}
               </h2>
               <p>
-                {{testimonials.des}}
+                {{partners.des}}
               </p>
             </div>
           </div>
-          {% for opinion in testimonials.opinion %}
+          {% for opinion in partners.opinion %}
           <div class="col-lg-4 col-md-6">
             <div class="site-testimonial-item">
               <div class="site-testimonial-item-header">

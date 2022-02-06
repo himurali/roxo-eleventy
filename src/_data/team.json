@@ -2,9 +2,9 @@
   "title": "team that makes the difference.",
   "teamMembers":[
     {
-      "name": "PABLO ESCOBAR",
+      "name": "MURALI  HR ",
       "dig": "Creative Director",
-      "img": "/assets/images/team/team-member-one.jpg",
+      "img": "/assets/images/team/murali-modified.png",
       "social":[
         {
           "icon": "medium",
@@ -21,9 +21,9 @@
       ]
     },
     {
-      "name": "MONTINO RIAU",
-      "dig": "Product Manager",
-      "img": "/assets/images/team/team-member-two.jpg",
+      "name": "NANJUNDA PALACANDA",
+      "dig": "Distributed Manufacturing Specialist",
+      "img": "/assets/images/team/nanju.jpg",
       "social":[
         {
           "icon": "medium",
@@ -40,9 +40,9 @@
       ]
     },
     {
-      "name": "ALEX NAASRI",
+      "name": "ANUP PAI",
       "dig": "Chief Design Officer",
-      "img": "/assets/images/team/team-member-three.jpg",
+      "img": "/assets/images/team/ap-modified.png",
       "social":[
         {
           "icon": "medium",
@@ -59,8 +59,8 @@
       ]
     },
     {
-      "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
+      "name": "KARTHIK P",
+      "dig": "Sustainability Expert , Smarter Dharma",
       "img": "/assets/images/team/team-member-four.jpg",
       "social":[
         {
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "name": "SANTIO ANDRESS",
+      "name": "CHARAN CS ",
       "dig": "Content Researcher",
       "img": "/assets/images/team/team-member-five.jpg",
       "social":[
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "RAMESH PAUL",
+      "name": "YATEESH",
       "dig": "Creative Designer",
       "img": "/assets/images/team/team-member-six.jpg",
       "social":[

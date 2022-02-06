@@ -1,6 +1,6 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["home","about","process","portfolio","blog"],
+  "navLinks":["home","about","context","sponsor","details","blog"],
   "navBtnLink":"contact",
-  "navBtnText":"Get in touch"
+  "navBtnText":"Sponsor or Partner"
 }

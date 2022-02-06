@@ -13,12 +13,40 @@
                 <p>
                   {{des}}
                 </p>
+                <hr> </hr>
+                <p>
+                  {{des2}}
+                </p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
+
+        <section class="site-about-header">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="site-about-wrapper">
+                  <div class="site-about-company">
+                  <h1>  {{titledes4}}</h1>
+                  </div>
+                  <div class="site-about-description">
+                    <p>
+                      {{des4}}
+                    </p>
+                    <hr> </hr>
+                    <p>
+                      {{des3}}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
 
     <section class="site-expertise">
       <div class="container">
@@ -50,7 +78,7 @@
               {% for trustedClient in clients.trustedClients %}
               <div class="site-client-item">
                 <img src="{{trustedClient}}" alt="client-logo">
-              </div> 
+              </div>
               {% endfor %}
             </div>
           </div>
@@ -72,7 +100,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="site-team-member">
               <div class="site-team-member-image">
-                <img src="{{teamMember.img}}" alt="team-member">
+                <img src="{{teamMember.img}}" alt="team-member" width="150px" height="170px">
               </div>
               <div class="site-team-member-content">
                 <h3>{{teamMember.name}}</h3>
@@ -83,12 +111,12 @@
                     <a href="/{{social.link}}">
                       <i class="fa fa-{{social.icon}}"></i>
                     </a>
-                  </li> 
+                  </li>
                   {% endfor %}
                 </ul>
               </div>
             </div>
-          </div> 
+          </div>
           {% endfor %}
         </div>
       </div>
