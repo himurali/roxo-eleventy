@@ -1,21 +1,21 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "Inspire. Create. Build. Make in India."
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Belies In the Great Ideas"
+    firstPara: "Bharath Cycle Design Challenge"
+    secondPara: "Hackathon / Conference"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "Details"
     link: "#project"
-  connectBtn: 
+  connectBtn:
     text: "Connect with us"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "DETAILS"
+  title: "Check out the process, themes, and other details below ."
   seeAllbtn:
     link: "portfolio"
-    text: "MORE WORKS"
+    text: "MORE DETAILS"
 ---
