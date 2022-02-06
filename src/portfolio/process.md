@@ -1,6 +1,6 @@
 ---
-subTitle: "PROCESS "
-title: "APPROACH"
+subTitle: "Process"
+title: "Approach"
 img: "/assets/images/projects/project-thumb-four.jpg"
 linkText: "view process "
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
@@ -13,21 +13,16 @@ The event will bring together key bicycle designers  from across the Nation resp
 pic credits:  theartcareerproject.com
 
 ***
-
-
 1. **Over 200 designers**, will participate in the event.  
-2.**Over 100 design colleges**, relevant national and regional design schools will participate in the event.
-1.  Design school  representatives and manufacturing services like the Peenya Industrial Hub  will participate in the event.
-1.  Industrial Bodies will present illustrative practices as well as new developments in the field of Bike and EBike Manufacturing.
+1. **Over 100 design colleges**, relevant national and regional design schools will participate in the event.
+1. Design school  representatives and manufacturing services like the Peenya Industrial Hub  will participate in the event.
+1. Industrial Bodies will present illustrative practices as well as new developments in the field of Bike and EBike Manufacturing.
 1. Material technology to be the focus of the hackathon.
 1. IM4  the latest manufacturing tech shall be the stack on which the bicycle will be designed and manufactured.  
 
 ##  Approach
 
 ## Stage 1
-
-
-
 | Date  | Date | Details|
 | -------- | -------- | -------- |
 | Launch Virtual Hackathon     | Mar 15 2022     | Announce the launch of the hackathon     |
@@ -40,15 +35,14 @@ Team Build Window     | Mar 15-Apr 15 2022     | Build the team for making the f
 | Product Exhibit     | Oct 2022     | Demo Prototype  - Swach Bharath |
 
 
+## Stage 1
 
-+ Submissions for competetion accepted - online - click here.
-+ Submissions are shortlisted
-+ The 1st  Virtual Round - Short listed  Submissions are selected for final pitching. They have to form a team and build complete concepts during the Hackathon that will be held in the IISc campus on May 15- May 16. Based on the design inputs - winners are selected.
-
-+  2nd is Final Round. In this round we intend to enable building of these bikes. This competition consists of several tests, which are to be performed by the Bicycle/E-Bike, successfully clearing each test, and the task decides their existence in the competition. This design challenge provides a platform to teams for showcasing their creativity and engineering skills.  After the final round - that will work in parallel to explore solutions that span practice and theory.
-+ These solutions are presented with design drawings, designs, and a marketing strategy on the following day, in the presence of key stakeholders and anyone involved in the future of sustainable transportation in India.
-
-+ Products are selected in each theme for Distributed Manufacturing and Scaling Up. Total 15 product designs are finalized in the themes mentioned below.
+1. Submissions for competetion accepted - online - click here.
+1. Submissions are shortlisted
+1. The 1st  Virtual Round - Short listed  Submissions are selected for final pitching. They have to form a team and build complete concepts during the Hackathon that will be held in the IISc campus on May 15- May 16. Based on the design inputs - winners are selected.
+1. These solutions are presented with design drawings, designs, and a marketing strategy on the following day, in the presence of key stakeholders and anyone involved in the future of sustainable transportation in India.
+1. Next a  Final Round for building bikes. In this round we intend to enable building of these bikes. This competition consists of several tests, which are to be performed by the Bicycle/E-Bike, successfully clearing each test, and the task decides their existence in the competition. This design challenge provides a platform to teams for showcasing their creativity and engineering skills.  After the final round - that will work in parallel to explore solutions that span practice and theory.
+1. Products are selected in each theme for Manufacturing and Scaling Up. Total 15 product designs are finalized in the themes mentioned below.
 
 ## Stage 2 - Summit on Bicycle Design for India
 ***
