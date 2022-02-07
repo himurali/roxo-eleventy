@@ -1,19 +1,17 @@
 ---
 subTitle: "Design of bicycles across various sectors"
-title: ""
-img: "/assets/images/projects/project-thumb-three.jpg"
+title: "Bicycle Design Themes"
+img: "/assets/images/projects/themes_bike2.jpg"
 linkText: "view context"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
+featureImg1: "/assets/images/projects/Double_diamnond.png"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---
 
 <p align="center">
 
 
-  <h3 align="center">Bicycle Design Themes</h3>
-
-  <p align="center">
-BCDC 2022, has multiple themese. BCDC hopes that more bicycles can be created with intelligent technology, sustainable ideas, and sensible design to provide people another option or style of transportation and living. If you have any fantastic ideas, do not hesitate to participate in this competition and share your ideas with everyone.    <br>
+  <p align="left">
+BCDC 2022, has multiple themes. BCDC hopes that more bicycles can be created with intelligent technology, sustainable ideas, and sensible design to provide people another option or style of transportation and living. If you have any fantastic ideas, do not hesitate to participate in this competition and share your ideas with everyone.    <br>
 
   </p>
 </p>

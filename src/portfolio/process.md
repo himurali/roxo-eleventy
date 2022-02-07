@@ -1,7 +1,7 @@
 ---
 subTitle: "Process"
 title: "Approach"
-img: "/assets/images/projects/project-thumb-four.jpg"
+img: "/assets/images/projects/flowchart44.jpg"
 linkText: "view process "
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
@@ -20,7 +20,11 @@ pic credits:  theartcareerproject.com
 1. Material technology to be the focus of the hackathon.
 1. IM4  the latest manufacturing tech shall be the stack on which the bicycle will be designed and manufactured.  
 
+<img  src="/assets/images/context/flowchart.png" width="1200" height="900" style="float: right;">
+
+
 ##  Approach
+
 
 ## Stage 1
 | Date  | Date | Details|
@@ -30,8 +34,8 @@ pic credits:  theartcareerproject.com
 Team Build Window     | Mar 15-Apr 15 2022     | Build the team for making the final product     |
 |    |
 |       | **SECOND ROUND**    |      |
-| Product Hackathon     | May 15 2022     | Announce the winners    |
-| Product Prototype     | May 15  - Sept 15 2022     | Build Prototype  |
+| Product Hackathon     | May 20-22 2022     | Announce the winners on May 22 2022   |
+| Product Prototype     | June  20  - Sept 15 2022     | Build Prototype  |
 | Product Exhibit     | Oct 2022     | Demo Prototype  - Swach Bharath |
 
 
